@@ -2,7 +2,9 @@
 
 **Course**: BC2407 Analytics II: Advanced Predictive Analytics  
 **Semester**: AY24/25 Sem 2  
+
 **Project**: Crop Yield Prediction Using Regression Models
+
 **Assessment Type**: Computer-Based Assessment (Individual Project)
 
 ---
